@@ -1,11 +1,10 @@
-## Welcome to !SONIC!
-Sanity's Out, Now I'm Cooking
-A fun and chaotic experience brought to life with C++ and SFML.
-(SEGA dont copyright strike us this is a fan-made adaptation)
+## 🚫 NOT SONIC: A Totally Original Hedgehog Game
+ A fun and chaotic experience brought to life with C++ and SFML.\
+(SEGA dont copyright strike us this is a fan-made adaptation)\
 (We lowkey brokie ain't getting money from this anyways)
 
 ## 👤 The Devs 😎
-This game was developed by Ahmed Ayan Arsalan and Mahad Ahmad Khan.
+This game was developed by [Ahmed Ayan Arsalan](https://github.com/cheesesocrates) and [Mahad Ahmad Khan](https://github.com/Mahad-K).\
 Feel free to explore, break, or speedrun it like it's 2014 YouTube.
 
 ## 🛠️ Requirements
@@ -20,18 +19,18 @@ Before you run the game, make sure you have the **Microsoft Visual C++ Redistrib
 Download it from the official Microsoft page:  
 [https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)
 
-## Run "SONIC.exe"
-Enjoy the game, and show us some love on linkedin (corporate insta clout) 🎮🔥
+## Run "!SONIC.exe"
+Enjoy the game, and show us some love on LinkedIn (corporate insta clout) 🎮🔥
 
-## HINT
+#### HINT: -
 Type OOPS for a special surprise !
 
 ## DISCLAIMER
-This game is a fan-made coding project created purely for educational purposes to practice object-oriented programming (OOP) concepts.
-We do not claim ownership of any official Sonic characters, sprites, or music. All rights belong to SEGA and the original content creators.
+This game is a fan-made coding project created purely for educational purposes to practice object-oriented programming (OOP) concepts.\
+We do not claim ownership of any official Sonic characters, sprites, or music. All rights belong to SEGA and the original content creators.\
 No monetary profit is being made—just two devs learning to cook 🙏🥀
 
 ## LICENCE (GPT said we should add one)
 📜 License
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.\
 TLDR: You can learn from it or remix it, just give credit and don’t make money off it 🙏
