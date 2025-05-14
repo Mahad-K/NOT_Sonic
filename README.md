@@ -4,7 +4,7 @@
 (We lowkey brokie ain't getting money from this anyways)
 
 ## 👤 The Devs 😎
-This game was developed by [Ahmed Ayan Arsalan](https://github.com/cheesesocrates) and [Mahad Ahmad Khan](https://github.com/Mahad-K).\
+This game was developed by [Ahmed Ayan Arsalan](https://www.linkedin.com/in/ayanarsalan/) & [Mahad Ahmad Khan](https://www.linkedin.com/in/mahad-khan-a17512340/).\
 Feel free to explore, break, or speedrun it like it's 2014 YouTube.
 
 ## 🛠️ Requirements
