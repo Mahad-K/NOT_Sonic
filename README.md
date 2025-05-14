@@ -20,7 +20,7 @@ Download it from the official Microsoft page:
 [https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)
 
 ## Run "!SONIC.exe"
-Enjoy the game, and show us some love on LinkedIn (corporate insta clout) 🎮🔥
+Enjoy the game, and show us some love on [LinkedIn](https://www.linkedin.com/posts/ayanarsalan_top-marks-were-just-a-bonus-seeing-the-teacher-activity-7328434577465610240-fgSo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZ8kPABjMQ6lBl_VoPrHBvBy23H6K6Kbro) (corporate insta clout) 🎮🔥
 
 #### HINT: -
 Type OOPS for a special surprise !
