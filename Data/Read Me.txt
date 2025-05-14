@@ -1,0 +1,12 @@
+Just use what you want from the sprite sheets. (Crop and extract what you want.)
+Get your own sprites sheets from here : https://www.spriters-resource.com/search/?q=sonic+mania
+
+Green screen remover : https://www.aatbio.com/tools/online-automatic-green-screen-remover
+
+Some websites to help with setting sprite sheets for animations :
+ 
+	sprite sheet to gif : https://onlinegiftools.com/convert-sprite-sheet-to-gif
+	gif to sprite sheet : https://ezgif.com/gif-to-sprite
+	gif cropper and resizer : https://ezgif.com/crop
+
+
